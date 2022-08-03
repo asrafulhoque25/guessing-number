@@ -1,6 +1,6 @@
 # Guessing Number Game (v-1)
 
-Live Website Link : [Guessing number](https://simple-quizapplication.netlify.app/).
+Live Website Link : [Guessing number](https://stellular-naiad-1ecf5f.netlify.app/).
 
 ## Features
 
